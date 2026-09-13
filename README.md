@@ -1,6 +1,6 @@
 # Research Touying template
 
-This Typst/Touying template reproduces the visual system of `[Template] Research.pptx`: a white 16:9 canvas, Arial-style typography, 36 pt slide titles, restrained HKUST blue and gold accents, alternating pale-blue tables, cover branding, and small slide numbers.
+This Typst/Touying template reproduces the visual system of `[Template] Research.pptx` by @YiZHOU97 : a white 16:9 canvas, Arial-style typography, 36 pt slide titles, restrained HKUST blue and gold accents, alternating pale-blue tables, cover branding, and small slide numbers.
 
 ## Use it
 
